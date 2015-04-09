@@ -1,0 +1,19 @@
+{
+  "name": "BBTE",
+  "version": "0.0.1",
+  "authors": [
+    "@tanskanm <mikko.tanskanen@iki.fi>"
+  ],
+  "description": "BBTE Rating",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
